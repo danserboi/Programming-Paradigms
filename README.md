@@ -8,7 +8,7 @@ Laboratory solutions for the Programming Paradigms course @ Faculty of Automatic
 * **Lab 2**: 
   * Pattern matching and basic types in Haskell. Function composition and function application [source](https://github.com/danserboi/Programming-Paradigms/blob/master/lab2.hs)
   
- * **Lab 3**:
+* **Lab 3**:
   * Function application and composition as higher-order functions. Lambdas. Folds [source](https://github.com/danserboi/Programming-Paradigms/blob/master/lab3.hs)
 
 * **Lab 4**:
