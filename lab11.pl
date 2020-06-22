@@ -74,16 +74,9 @@ subset(R,[_|T]) :- subset(R,T).
 % 11. What is the difference between ?- length(C,K), subset(C,V). and ?- ksubset(C,K,V).? 
 % where K is an instantiated variable (with a value less or equal to the size of V). 
 % Write your answer down. 
-% DISCUTIE !
 % combinari de k luate cate n vs aranjamente de k luate cate n
 
-% 12. Implement kvertexcover/3 where kvertexcover(C,K,G) generates all K-coverings in G. 
-% G=[V,E] where V is a set of nodes and E is a set of undirected edges. 
-% Hint: use negation to express a universal constraint.
-
-% 13. Implement kclique/3. 
-
-% 14. Implement connected/4, where connected(X,Y,P,G)
+% 12. Implement connected/4, where connected(X,Y,P,G)
 % generates all paths P between nodes X and Y in graph G.
 
 edge(X,Y,[_,E]) :- member([X,Y],E).
