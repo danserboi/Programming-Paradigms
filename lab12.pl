@@ -1,7 +1,3 @@
-% A tic-tac-toe table is encoded as a list [ [X1,Y1,Z1], [X2,Y2,Z2], [X3,Y3,Z3] ] 
-% where a variable is bound to atom x or z (zero)
-% if the position has been played or it is uninstantiated otherwise. 
-
 % 1. Write the predicate diags(Tbl,R) which computes the list R of diagonals in table Tbl.
 diags_aux([],_,_,[],[]).
 diags_aux([H|T], N, N2, [No1|S],[No2|S2]) :- nth0(N, H, No1), nth0(N2, H, No2),
