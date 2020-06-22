@@ -46,4 +46,4 @@ Older versions may work but were not tested.
 Older versions may work but were not tested.
 
 ### Author
-* Florea-Dan Serboi
+* Florea-Dan Șerboi
