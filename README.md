@@ -31,10 +31,10 @@ Laboratory solutions for the Programming Paradigms course @ Faculty of Automatic
 
 ## Logic Programming
 * **Lab 10**:
-  * Introduction to Prolog Programming [source](https://github.com/danserboi/Programming-Paradigms/blob/master/lab10.pl)
+  * Introduction to Prolog programming [source](https://github.com/danserboi/Programming-Paradigms/blob/master/lab10.pl)
 
 * **Lab 11**:
-  * Generative Predicates. Programming with cut and not [source](https://github.com/danserboi/Programming-Paradigms/blob/master/lab11.pl)
+  * Generative predicates. Programming with cut and not [source](https://github.com/danserboi/Programming-Paradigms/blob/master/lab11.pl)
   
 * **Lab 12**:
   * Matrix operations [source](https://github.com/danserboi/Programming-Paradigms/blob/master/lab12.pl)
