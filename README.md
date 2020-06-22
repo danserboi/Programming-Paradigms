@@ -38,3 +38,12 @@ Laboratory solutions for the Programming Paradigms course @ Faculty of Automatic
   
 * **Lab 12**:
   * Matrix operations [source](https://github.com/danserboi/Programming-Paradigms/blob/master/lab12.pl?ts=4)
+
+### Prerequisites
+* [The Glasgow Haskell Compiler](https://www.haskell.org/ghc/) 8.8.2 or later.
+Older versions may work but were not tested.
+* [SWI-Prolog](https://www.swi-prolog.org/) 8.1.0 or later.
+Older versions may work but were not tested.
+
+### Author
+* Florea-Dan Serboi
