@@ -1,5 +1,5 @@
 # Programming Paradigms
-Laboratory solutions for the Programming Paradigms course @ Faculty of Automatic Control and Computer Science, Politehnica University of Bucharest.
+Laboratory solutions for the Programming Paradigms course @ Faculty of Automatic Control and Computers, Politehnica University of Bucharest.
 
 ## Functional Programming
 * **Lab 1**: 
